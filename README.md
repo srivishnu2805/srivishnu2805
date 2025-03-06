@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack Development and UI/UX Designing<br>🌱 I’m presently working on Backend Development <br>
+🔭 I’m currently working on _Full stack Development_ and_ UI/UX Designing_ <br>🌱 I’m presently working on Backend Development <br>
 
 
 ## 🌐 Socials:
