@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:sriv36605@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/srivishnu-t/">LinkedIn</a> •
-  <a href="https://github.com/srivishnu2805">GitHub</a> •
   <a href="https://leetcode.com/u/sriv36605/">LeetCode</a>
 </p>
 
