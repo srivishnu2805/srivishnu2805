@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" style="vertical-align: middle; margin-left: -10px;" />
 </h1>
 
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Aspirant Full Stack Developer | UI/UX Designer </h3>
 
 <p align="center">
   <a href="mailto:sriv36605@gmail.com">Email</a> •
