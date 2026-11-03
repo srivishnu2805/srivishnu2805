@@ -87,31 +87,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=srivishnu2805&show_icons=true&theme=tokyonight"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=tokyonight"
-    height="165"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com/?user=srivishnu2805&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=srivishnu2805&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=tokyonight&hide_border=true"
+    width="50%"
+    alt="Most Used Languages"
   />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=srivishnu2805&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=dark" />
 </p>
 
 ---
