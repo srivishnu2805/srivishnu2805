@@ -93,9 +93,11 @@
   />
 </p>
 
+<h2 align="center">💻 Most Used Languages</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     width="50%"
     alt="Most Used Languages"
   />
