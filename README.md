@@ -70,17 +70,15 @@
 
 ## GSSOC(24) Badges 🪶
 
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" alt="Postman Badge"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" alt="GSSoC Badge 1"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" alt="GSSoC Badge 2"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" alt="GSSoC Badge 3"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" alt="GSSoC Badge 4"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" alt="GSSoC Badge 5"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" alt="GSSoC Badge 6"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100" alt="GSSoC Badge 7"/>
-  </a>
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
+<img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/postman.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/1.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/2.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/3.png" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/4.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/5.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/6.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/7.png" width="85px" height="85px" />
 </div>
 
 ---
