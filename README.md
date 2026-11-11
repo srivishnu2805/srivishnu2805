@@ -95,7 +95,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srivishnu2805&layout=compact&theme=tokyonight"
     height="165"
     alt="Top Languages"
   />
